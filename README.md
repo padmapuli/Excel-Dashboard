@@ -5,4 +5,7 @@ The objective of an HR analytics attrition dashboard Excel project is to create 
 # KPI'S
  Defining and tracking key performance indicators (KPIs) related to attrition, such as the overall attrition rate,active employees, attrition by department,attrition by job role, attrition by age, attrition by education and attrition by marital status. 
 # Problem Statement
- The dashboard helps in understanding the underlying reasons for attrition.
+ The dashboard helps in understanding the underlying reasons for attrition. It Provides clear, concise visualisations of key attrition metrics.
+ # Charts
+ -** Total Employees by gender**: Pie chart is created by using pivot table. Percentages of male and female count is calculated based on that pie chart is created.
+ -**
