@@ -9,4 +9,10 @@ The objective of an HR analytics attrition dashboard Excel project is to create 
  # Charts
  - **Total Employees by gender**: Pie chart is created by using pivot table. Percentages of male and female count is calculated based on that pie chart is created.
  - **Atrrition by Education**: Pivot table is created based on Education and atrrition fields, bar chart is created based on that.
- - **Attrition by Job Role**: Tree map is plotted for visualising the 
+ - **Attrition by Job Role**: Tree map is plotted for visualising the attrition based on job role.
+ - **Attrition by Department**: Pie chart is plotted to determine the attrition based on department.
+ - **Attrition by Age**: To determine the attrition based on age stacked column chart is plotted.
+ - **Attrition by Marital Status**:
+    
+   
+
