@@ -12,7 +12,11 @@ The objective of an HR analytics attrition dashboard Excel project is to create 
  - **Attrition by Job Role**: Tree map is plotted for visualising the attrition based on job role.
  - **Attrition by Department**: Pie chart is plotted to determine the attrition based on department.
  - **Attrition by Age**: To determine the attrition based on age stacked column chart is plotted.
- - **Attrition by Marital Status**:
+ - **Attrition by Marital Status**: Funnel chart is created to determine how marital status is impacting on attrition rate.
+ # Slicers
+     Slicer is selected for the fields Department and Education Field. It helped to make tables appear interactive and could help in visualizing the same data with different criteria.
+
+   
     
    
 
