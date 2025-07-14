@@ -18,8 +18,8 @@ The objective of an HR analytics attrition dashboard Excel project is to create 
  # Dashboard Image
  <img width="1002" height="598" alt="Hr Excel Dashboard" src="https://github.com/user-attachments/assets/abf8f2a1-8e8c-468b-8506-f2e02007857a" />
 **Insights**: Overall Attrition rate is 16%. Count of male emolyees is more than the count of female employees. Based on education Bachelor's degree has
-              higher attrition rate, laboratory technician job role has higher attrition rate compared to other job roles. In departments sales department 
-              has higher attrition rate and among the age 25-34 years age people shows higher attrition rate.
+  higher attrition rate, laboratory technician job role has higher attrition rate compared to other job roles. In departments sales department 
+  has higher attrition rate and among the age 25-34 years age people shows higher attrition rate.
  
 
    
