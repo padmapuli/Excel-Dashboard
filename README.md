@@ -15,6 +15,8 @@ The objective of an HR analytics attrition dashboard Excel project is to create 
  - **Attrition by Marital Status**: Funnel chart is created to determine how marital status is impacting on attrition rate.
  # Slicers
    Slicer is selected for the fields Department and Education Field. It helped to make tables appear interactive and could help in visualizing the same data with different criteria.
+ # Dashboard Image
+ 
 
    
     
